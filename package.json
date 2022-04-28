@@ -1,0 +1,21 @@
+{
+    "name": "livrariaapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Lucas Havranek",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.0",
+        "mongodb": "^4.5.0",
+        "pg": "^8.7.3",
+        "sequelize": "^6.19.0",
+        "winston": "^3.7.2"
+    }
+}
