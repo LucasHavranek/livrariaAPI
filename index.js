@@ -1,6 +1,7 @@
 import express from 'express'
 import cors from 'cors'
 import winston from 'winston'
+import clienteRouter from './routes/clienteRoute.js'
 
 const { combine, timestamp, label, printf } = winston.format
 const myFormat = printf(({ level, message, label, timestamp }) => {
@@ -23,5 +24,6 @@ global.logger = winston.createLogger({
 const app = express()
 app.use(express.json())
 app.use(cors())
+app.use('/cliente', clienteRouter)
 
 app.listen(3000, () => console.log("API started!"))
