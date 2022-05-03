@@ -19,3 +19,52 @@
 2022-04-30T14:14:21.581Z [livrariaAPI] info GET /cliente
 2022-04-30T14:50:01.745Z [livrariaAPI] info GET /cliente:id
 2022-04-30T14:59:27.086Z [livrariaAPI] info GET /cliente:id
+2022-04-30T16:52:03.155Z [livrariaAPI] info GET /autor
+2022-04-30T16:53:02.672Z [livrariaAPI] info GET /autor:id
+2022-04-30T16:54:46.553Z [livrariaAPI] info POST /autor - {"nome":"Sabrina Sato","email":"sabrina@gmail.com","telefone":"11988865550"}
+2022-04-30T17:02:21.414Z [livrariaAPI] info PUT /autor - {"nome":"Lua de Cristal","email":"lua@gmail.com","telefone":"11963258987","autor_id":4}
+2022-04-30T17:02:27.885Z [livrariaAPI] info GET /autor
+2022-05-02T19:03:15.164Z [livrariaAPI] info DELETE /autor - "4"
+2022-05-02T19:04:23.525Z [livrariaAPI] info DELETE /autor - "4"
+2022-05-03T01:49:35.661Z [livrariaAPI] info GET /autor
+2022-05-03T01:49:39.827Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:13.809Z [livrariaAPI] info POST /autor - {"nome":"Geraldo Luis","email":"cesarluccaalv@gmail.com","telefone":"63998823896"}
+2022-05-03T01:50:20.159Z [livrariaAPI] info POST /autor - {"nome":"Geraldo Novais","email":"cesarluccaalv@gmail.com","telefone":"63998823896"}
+2022-05-03T01:50:43.718Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:45.436Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:46.045Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:46.632Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:48.037Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:48.734Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:49.720Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:50.533Z [livrariaAPI] info GET /autor
+2022-05-03T01:50:51.204Z [livrariaAPI] info GET /autor
+2022-05-03T01:51:31.591Z [livrariaAPI] info GET /autor
+2022-05-03T01:51:32.525Z [livrariaAPI] info GET /autor
+2022-05-03T01:51:32.897Z [livrariaAPI] info GET /autor
+2022-05-03T02:23:35.248Z [livrariaAPI] info DELETE /autor - "5"
+2022-05-03T02:23:41.915Z [livrariaAPI] info GET /autor
+2022-05-03T02:23:43.054Z [livrariaAPI] info GET /autor
+2022-05-03T02:24:51.613Z [livrariaAPI] info DELETE /autor - "4"
+2022-05-03T02:24:58.006Z [livrariaAPI] info DELETE /autor - "5"
+2022-05-03T02:25:01.703Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:25:04.919Z [livrariaAPI] info GET /autor
+2022-05-03T02:25:05.861Z [livrariaAPI] info GET /autor
+2022-05-03T02:25:06.315Z [livrariaAPI] info GET /autor
+2022-05-03T02:25:06.468Z [livrariaAPI] info GET /autor
+2022-05-03T02:25:06.627Z [livrariaAPI] info GET /autor
+2022-05-03T02:25:06.793Z [livrariaAPI] info GET /autor
+2022-05-03T02:30:04.985Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:30.800Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:31:34.791Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:36.255Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:36.762Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:37.159Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:37.541Z [livrariaAPI] info GET /autor
+2022-05-03T02:31:37.908Z [livrariaAPI] info GET /autor
+2022-05-03T02:32:39.073Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:32:48.635Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:32:54.592Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:33:22.543Z [livrariaAPI] info DELETE /autor - "6"
+2022-05-03T02:49:45.401Z [livrariaAPI] info DELETE /autor - "5"
+2022-05-03T02:49:49.008Z [livrariaAPI] info GET /autor
