@@ -28,6 +28,7 @@ async function updateLivroInfo(livroInfo) {
     }
 }
 
+//Necessário corrigir, API responde porém não exclui registro.
 async function deleteLivroInfo(id) {
     const client = getClient()
     try {
