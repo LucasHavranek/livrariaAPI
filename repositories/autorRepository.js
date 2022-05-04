@@ -1,4 +1,3 @@
-import { response } from 'express'
 import { connectDatabase } from './databasePostgre.js'
 
 async function getAutores() {
